@@ -1,0 +1,135 @@
+[
+  {
+    "product_id": "PROD_001",
+    "product_name": "Echo Dot",
+    "category": "Electronics",
+    "unit_price": 7100.86,
+    "supplier": "Supplier_9"
+  },
+  {
+    "product_id": "PROD_002",
+    "product_name": "Fire TV Stick",
+    "category": "Electronics",
+    "unit_price": 14326.2,
+    "supplier": "Supplier_1"
+  },
+  {
+    "product_id": "PROD_003",
+    "product_name": "Kindle Paperwhite",
+    "category": "Electronics",
+    "unit_price": 6910.09,
+    "supplier": "Supplier_10"
+  },
+  {
+    "product_id": "PROD_004",
+    "product_name": "Noise Canceling Headphones",
+    "category": "Electronics",
+    "unit_price": 9881.01,
+    "supplier": "Supplier_6"
+  },
+  {
+    "product_id": "PROD_005",
+    "product_name": "USB-C Hub",
+    "category": "Electronics",
+    "unit_price": 9192.59,
+    "supplier": "Supplier_9"
+  },
+  {
+    "product_id": "PROD_006",
+    "product_name": "Air Fryer",
+    "category": "Home & Kitchen",
+    "unit_price": 2516.66,
+    "supplier": "Supplier_1"
+  },
+  {
+    "product_id": "PROD_007",
+    "product_name": "Espresso Machine",
+    "category": "Home & Kitchen",
+    "unit_price": 6921.69,
+    "supplier": "Supplier_6"
+  },
+  {
+    "product_id": "PROD_008",
+    "product_name": "Robot Vacuum",
+    "category": "Home & Kitchen",
+    "unit_price": 14740.07,
+    "supplier": "Supplier_2"
+  },
+  {
+    "product_id": "PROD_009",
+    "product_name": "Blender",
+    "category": "Home & Kitchen",
+    "unit_price": 7715.87,
+    "supplier": "Supplier_3"
+  },
+  {
+    "product_id": "PROD_010",
+    "product_name": "Cookware Set",
+    "category": "Home & Kitchen",
+    "unit_price": 874.39,
+    "supplier": "Supplier_8"
+  },
+  {
+    "product_id": "PROD_011",
+    "product_name": "Atomic Habits",
+    "category": "Books",
+    "unit_price": 14866.49,
+    "supplier": "Supplier_9"
+  },
+  {
+    "product_id": "PROD_012",
+    "product_name": "Designing Data-Intensive Apps",
+    "category": "Books",
+    "unit_price": 7983.4,
+    "supplier": "Supplier_3"
+  },
+  {
+    "product_id": "PROD_013",
+    "product_name": "Python Crash Course",
+    "category": "Books",
+    "unit_price": 5648.3,
+    "supplier": "Supplier_5"
+  },
+  {
+    "product_id": "PROD_014",
+    "product_name": "Clean Code",
+    "category": "Books",
+    "unit_price": 5994.02,
+    "supplier": "Supplier_6"
+  },
+  {
+    "product_id": "PROD_015",
+    "product_name": "Running Shoes",
+    "category": "Fashion",
+    "unit_price": 10278.8,
+    "supplier": "Supplier_1"
+  },
+  {
+    "product_id": "PROD_016",
+    "product_name": "Cotton T-Shirt",
+    "category": "Fashion",
+    "unit_price": 11900.64,
+    "supplier": "Supplier_6"
+  },
+  {
+    "product_id": "PROD_017",
+    "product_name": "Leather Wallet",
+    "category": "Fashion",
+    "unit_price": 1267.9,
+    "supplier": "Supplier_2"
+  },
+  {
+    "product_id": "PROD_018",
+    "product_name": "Backpack",
+    "category": "Fashion",
+    "unit_price": 8501.06,
+    "supplier": "Supplier_7"
+  },
+  {
+    "product_id": "PROD_019",
+    "product_name": "Winter Jacket",
+    "category": "Fashion",
+    "unit_price": 4475.96,
+    "supplier": "Supplier_10"
+  }
+]

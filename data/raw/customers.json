@@ -1,0 +1,4502 @@
+[
+  {
+    "customer_id": "CUST_0001",
+    "customer_name": "Customer_1",
+    "email": "user1@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-21"
+  },
+  {
+    "customer_id": "CUST_0002",
+    "customer_name": "Customer_2",
+    "email": "user2@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-02-22"
+  },
+  {
+    "customer_id": "CUST_0003",
+    "customer_name": "Customer_3",
+    "email": "user3@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-10-07"
+  },
+  {
+    "customer_id": "CUST_0004",
+    "customer_name": "Customer_4",
+    "email": "user4@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-01-17"
+  },
+  {
+    "customer_id": "CUST_0005",
+    "customer_name": "Customer_5",
+    "email": "user5@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-04-30"
+  },
+  {
+    "customer_id": "CUST_0006",
+    "customer_name": "Customer_6",
+    "email": "user6@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-10-15"
+  },
+  {
+    "customer_id": "CUST_0007",
+    "customer_name": "Customer_7",
+    "email": "user7@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-10-07"
+  },
+  {
+    "customer_id": "CUST_0008",
+    "customer_name": "Customer_8",
+    "email": "user8@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-23"
+  },
+  {
+    "customer_id": "CUST_0009",
+    "customer_name": "Customer_9",
+    "email": "user9@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-03-23"
+  },
+  {
+    "customer_id": "CUST_0010",
+    "customer_name": "Customer_10",
+    "email": "user10@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-23"
+  },
+  {
+    "customer_id": "CUST_0011",
+    "customer_name": "Customer_11",
+    "email": "user11@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-06-22"
+  },
+  {
+    "customer_id": "CUST_0012",
+    "customer_name": "Customer_12",
+    "email": "user12@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-02-19"
+  },
+  {
+    "customer_id": "CUST_0013",
+    "customer_name": "Customer_13",
+    "email": "user13@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-16"
+  },
+  {
+    "customer_id": "CUST_0014",
+    "customer_name": "Customer_14",
+    "email": "user14@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-02"
+  },
+  {
+    "customer_id": "CUST_0015",
+    "customer_name": "Customer_15",
+    "email": "user15@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-13"
+  },
+  {
+    "customer_id": "CUST_0016",
+    "customer_name": "Customer_16",
+    "email": "user16@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-05"
+  },
+  {
+    "customer_id": "CUST_0017",
+    "customer_name": "Customer_17",
+    "email": "user17@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-05"
+  },
+  {
+    "customer_id": "CUST_0018",
+    "customer_name": "Customer_18",
+    "email": "user18@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-05-29"
+  },
+  {
+    "customer_id": "CUST_0019",
+    "customer_name": "Customer_19",
+    "email": "user19@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-02-21"
+  },
+  {
+    "customer_id": "CUST_0020",
+    "customer_name": "Customer_20",
+    "email": "user20@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-07-06"
+  },
+  {
+    "customer_id": "CUST_0021",
+    "customer_name": "Customer_21",
+    "email": "user21@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-04-18"
+  },
+  {
+    "customer_id": "CUST_0022",
+    "customer_name": "Customer_22",
+    "email": "user22@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-02-06"
+  },
+  {
+    "customer_id": "CUST_0023",
+    "customer_name": "Customer_23",
+    "email": "user23@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-10-01"
+  },
+  {
+    "customer_id": "CUST_0024",
+    "customer_name": "Customer_24",
+    "email": "user24@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-25"
+  },
+  {
+    "customer_id": "CUST_0025",
+    "customer_name": "Customer_25",
+    "email": "user25@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-13"
+  },
+  {
+    "customer_id": "CUST_0026",
+    "customer_name": "Customer_26",
+    "email": "user26@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-01-29"
+  },
+  {
+    "customer_id": "CUST_0027",
+    "customer_name": "Customer_27",
+    "email": "user27@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-06-11"
+  },
+  {
+    "customer_id": "CUST_0028",
+    "customer_name": "Customer_28",
+    "email": "user28@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-04-19"
+  },
+  {
+    "customer_id": "CUST_0029",
+    "customer_name": "Customer_29",
+    "email": "user29@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-06-11"
+  },
+  {
+    "customer_id": "CUST_0030",
+    "customer_name": "Customer_30",
+    "email": "user30@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-22"
+  },
+  {
+    "customer_id": "CUST_0031",
+    "customer_name": "Customer_31",
+    "email": "user31@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-16"
+  },
+  {
+    "customer_id": "CUST_0032",
+    "customer_name": "Customer_32",
+    "email": "user32@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-10-15"
+  },
+  {
+    "customer_id": "CUST_0033",
+    "customer_name": "Customer_33",
+    "email": "user33@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-10-27"
+  },
+  {
+    "customer_id": "CUST_0034",
+    "customer_name": "Customer_34",
+    "email": "user34@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-07-24"
+  },
+  {
+    "customer_id": "CUST_0035",
+    "customer_name": "Customer_35",
+    "email": "user35@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-03-12"
+  },
+  {
+    "customer_id": "CUST_0036",
+    "customer_name": "Customer_36",
+    "email": "user36@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-01-25"
+  },
+  {
+    "customer_id": "CUST_0037",
+    "customer_name": "Customer_37",
+    "email": "user37@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-03-23"
+  },
+  {
+    "customer_id": "CUST_0038",
+    "customer_name": "Customer_38",
+    "email": "user38@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-02-02"
+  },
+  {
+    "customer_id": "CUST_0039",
+    "customer_name": "Customer_39",
+    "email": "user39@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-08-28"
+  },
+  {
+    "customer_id": "CUST_0040",
+    "customer_name": "Customer_40",
+    "email": "user40@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-10-11"
+  },
+  {
+    "customer_id": "CUST_0041",
+    "customer_name": "Customer_41",
+    "email": "user41@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-02-28"
+  },
+  {
+    "customer_id": "CUST_0042",
+    "customer_name": "Customer_42",
+    "email": "user42@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-17"
+  },
+  {
+    "customer_id": "CUST_0043",
+    "customer_name": "Customer_43",
+    "email": "user43@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-31"
+  },
+  {
+    "customer_id": "CUST_0044",
+    "customer_name": "Customer_44",
+    "email": "user44@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-01-02"
+  },
+  {
+    "customer_id": "CUST_0045",
+    "customer_name": "Customer_45",
+    "email": "user45@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-15"
+  },
+  {
+    "customer_id": "CUST_0046",
+    "customer_name": "Customer_46",
+    "email": "user46@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-09-17"
+  },
+  {
+    "customer_id": "CUST_0047",
+    "customer_name": "Customer_47",
+    "email": "user47@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-02"
+  },
+  {
+    "customer_id": "CUST_0048",
+    "customer_name": "Customer_48",
+    "email": "user48@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-04-12"
+  },
+  {
+    "customer_id": "CUST_0049",
+    "customer_name": "Customer_49",
+    "email": "user49@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-03-24"
+  },
+  {
+    "customer_id": "CUST_0050",
+    "customer_name": "Customer_50",
+    "email": "user50@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-09-29"
+  },
+  {
+    "customer_id": "CUST_0051",
+    "customer_name": "Customer_51",
+    "email": "user51@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-09-08"
+  },
+  {
+    "customer_id": "CUST_0052",
+    "customer_name": "Customer_52",
+    "email": "user52@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-05"
+  },
+  {
+    "customer_id": "CUST_0053",
+    "customer_name": "Customer_53",
+    "email": "user53@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-04"
+  },
+  {
+    "customer_id": "CUST_0054",
+    "customer_name": "Customer_54",
+    "email": "user54@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-13"
+  },
+  {
+    "customer_id": "CUST_0055",
+    "customer_name": "Customer_55",
+    "email": "user55@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-02-05"
+  },
+  {
+    "customer_id": "CUST_0056",
+    "customer_name": "Customer_56",
+    "email": "user56@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-07"
+  },
+  {
+    "customer_id": "CUST_0057",
+    "customer_name": "Customer_57",
+    "email": "user57@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-10-09"
+  },
+  {
+    "customer_id": "CUST_0058",
+    "customer_name": "Customer_58",
+    "email": "user58@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-08-05"
+  },
+  {
+    "customer_id": "CUST_0059",
+    "customer_name": "Customer_59",
+    "email": "user59@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-04-13"
+  },
+  {
+    "customer_id": "CUST_0060",
+    "customer_name": "Customer_60",
+    "email": "user60@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-07-11"
+  },
+  {
+    "customer_id": "CUST_0061",
+    "customer_name": "Customer_61",
+    "email": "user61@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-08-20"
+  },
+  {
+    "customer_id": "CUST_0062",
+    "customer_name": "Customer_62",
+    "email": "user62@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-02-02"
+  },
+  {
+    "customer_id": "CUST_0063",
+    "customer_name": "Customer_63",
+    "email": null,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-10-11"
+  },
+  {
+    "customer_id": "CUST_0064",
+    "customer_name": "Customer_64",
+    "email": "user64@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-01-04"
+  },
+  {
+    "customer_id": "CUST_0065",
+    "customer_name": "Customer_65",
+    "email": "user65@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-01-31"
+  },
+  {
+    "customer_id": "CUST_0066",
+    "customer_name": "Customer_66",
+    "email": "user66@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-01-17"
+  },
+  {
+    "customer_id": "CUST_0067",
+    "customer_name": "Customer_67",
+    "email": "user67@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-02"
+  },
+  {
+    "customer_id": "CUST_0068",
+    "customer_name": "Customer_68",
+    "email": "user68@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-04-20"
+  },
+  {
+    "customer_id": "CUST_0069",
+    "customer_name": "Customer_69",
+    "email": "user69@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-10-20"
+  },
+  {
+    "customer_id": "CUST_0070",
+    "customer_name": "Customer_70",
+    "email": "user70@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-31"
+  },
+  {
+    "customer_id": "CUST_0071",
+    "customer_name": "Customer_71",
+    "email": "user71@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-02-19"
+  },
+  {
+    "customer_id": "CUST_0072",
+    "customer_name": "Customer_72",
+    "email": "user72@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-05"
+  },
+  {
+    "customer_id": "CUST_0073",
+    "customer_name": "Customer_73",
+    "email": "user73@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-01-28"
+  },
+  {
+    "customer_id": "CUST_0074",
+    "customer_name": "Customer_74",
+    "email": "user74@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-02-20"
+  },
+  {
+    "customer_id": "CUST_0075",
+    "customer_name": "Customer_75",
+    "email": "user75@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-23"
+  },
+  {
+    "customer_id": "CUST_0076",
+    "customer_name": "Customer_76",
+    "email": "user76@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-04-08"
+  },
+  {
+    "customer_id": "CUST_0077",
+    "customer_name": "Customer_77",
+    "email": "user77@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-05"
+  },
+  {
+    "customer_id": "CUST_0078",
+    "customer_name": "Customer_78",
+    "email": "user78@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-08"
+  },
+  {
+    "customer_id": "CUST_0079",
+    "customer_name": "Customer_79",
+    "email": "user79@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-09"
+  },
+  {
+    "customer_id": "CUST_0080",
+    "customer_name": "Customer_80",
+    "email": "user80@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-04"
+  },
+  {
+    "customer_id": "CUST_0081",
+    "customer_name": "Customer_81",
+    "email": "user81@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-05-02"
+  },
+  {
+    "customer_id": "CUST_0082",
+    "customer_name": "Customer_82",
+    "email": "user82@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-09-04"
+  },
+  {
+    "customer_id": "CUST_0083",
+    "customer_name": "Customer_83",
+    "email": "user83@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-01-31"
+  },
+  {
+    "customer_id": "CUST_0084",
+    "customer_name": "Customer_84",
+    "email": "user84@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-19"
+  },
+  {
+    "customer_id": "CUST_0085",
+    "customer_name": "Customer_85",
+    "email": "user85@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-21"
+  },
+  {
+    "customer_id": "CUST_0086",
+    "customer_name": "Customer_86",
+    "email": "user86@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-10-12"
+  },
+  {
+    "customer_id": "CUST_0087",
+    "customer_name": "Customer_87",
+    "email": "user87@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-03-21"
+  },
+  {
+    "customer_id": "CUST_0088",
+    "customer_name": "Customer_88",
+    "email": "user88@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-01-30"
+  },
+  {
+    "customer_id": "CUST_0089",
+    "customer_name": "Customer_89",
+    "email": "user89@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-01"
+  },
+  {
+    "customer_id": "CUST_0090",
+    "customer_name": "Customer_90",
+    "email": "user90@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-01-26"
+  },
+  {
+    "customer_id": "CUST_0091",
+    "customer_name": "Customer_91",
+    "email": "user91@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-09-29"
+  },
+  {
+    "customer_id": "CUST_0092",
+    "customer_name": "Customer_92",
+    "email": "user92@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-09-18"
+  },
+  {
+    "customer_id": "CUST_0093",
+    "customer_name": "Customer_93",
+    "email": "user93@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-02-05"
+  },
+  {
+    "customer_id": "CUST_0094",
+    "customer_name": "Customer_94",
+    "email": "user94@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-05-01"
+  },
+  {
+    "customer_id": "CUST_0095",
+    "customer_name": "Customer_95",
+    "email": "user95@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-19"
+  },
+  {
+    "customer_id": "CUST_0096",
+    "customer_name": "Customer_96",
+    "email": "user96@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-01-21"
+  },
+  {
+    "customer_id": "CUST_0097",
+    "customer_name": "Customer_97",
+    "email": "user97@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-10-26"
+  },
+  {
+    "customer_id": "CUST_0098",
+    "customer_name": "Customer_98",
+    "email": "user98@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-05-14"
+  },
+  {
+    "customer_id": "CUST_0099",
+    "customer_name": "Customer_99",
+    "email": "user99@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-06-10"
+  },
+  {
+    "customer_id": "CUST_0100",
+    "customer_name": "Customer_100",
+    "email": "user100@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-03-09"
+  },
+  {
+    "customer_id": "CUST_0101",
+    "customer_name": "Customer_101",
+    "email": "user101@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-23"
+  },
+  {
+    "customer_id": "CUST_0102",
+    "customer_name": "Customer_102",
+    "email": "user102@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-02-07"
+  },
+  {
+    "customer_id": "CUST_0103",
+    "customer_name": "Customer_103",
+    "email": "user103@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-16"
+  },
+  {
+    "customer_id": "CUST_0104",
+    "customer_name": "Customer_104",
+    "email": "user104@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-04-20"
+  },
+  {
+    "customer_id": "CUST_0105",
+    "customer_name": "Customer_105",
+    "email": "user105@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-06-28"
+  },
+  {
+    "customer_id": "CUST_0106",
+    "customer_name": "Customer_106",
+    "email": "user106@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-09"
+  },
+  {
+    "customer_id": "CUST_0107",
+    "customer_name": "Customer_107",
+    "email": "user107@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-10-06"
+  },
+  {
+    "customer_id": "CUST_0108",
+    "customer_name": "Customer_108",
+    "email": "user108@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-09-28"
+  },
+  {
+    "customer_id": "CUST_0109",
+    "customer_name": "Customer_109",
+    "email": "user109@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-11"
+  },
+  {
+    "customer_id": "CUST_0110",
+    "customer_name": "Customer_110",
+    "email": "user110@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-02-23"
+  },
+  {
+    "customer_id": "CUST_0111",
+    "customer_name": "Customer_111",
+    "email": "user111@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-02-24"
+  },
+  {
+    "customer_id": "CUST_0112",
+    "customer_name": "Customer_112",
+    "email": "user112@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-20"
+  },
+  {
+    "customer_id": "CUST_0113",
+    "customer_name": "Customer_113",
+    "email": "user113@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-06-25"
+  },
+  {
+    "customer_id": "CUST_0114",
+    "customer_name": "Customer_114",
+    "email": "user114@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-16"
+  },
+  {
+    "customer_id": "CUST_0115",
+    "customer_name": "Customer_115",
+    "email": "user115@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-01-27"
+  },
+  {
+    "customer_id": "CUST_0116",
+    "customer_name": "Customer_116",
+    "email": "user116@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-05-22"
+  },
+  {
+    "customer_id": "CUST_0117",
+    "customer_name": "Customer_117",
+    "email": null,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-03-08"
+  },
+  {
+    "customer_id": "CUST_0118",
+    "customer_name": "Customer_118",
+    "email": "user118@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-03-24"
+  },
+  {
+    "customer_id": "CUST_0119",
+    "customer_name": "Customer_119",
+    "email": "user119@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-07"
+  },
+  {
+    "customer_id": "CUST_0120",
+    "customer_name": "Customer_120",
+    "email": null,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-08"
+  },
+  {
+    "customer_id": "CUST_0121",
+    "customer_name": "Customer_121",
+    "email": "user121@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-10-07"
+  },
+  {
+    "customer_id": "CUST_0122",
+    "customer_name": "Customer_122",
+    "email": "user122@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-26"
+  },
+  {
+    "customer_id": "CUST_0123",
+    "customer_name": "Customer_123",
+    "email": "user123@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-07"
+  },
+  {
+    "customer_id": "CUST_0124",
+    "customer_name": "Customer_124",
+    "email": "user124@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-01-21"
+  },
+  {
+    "customer_id": "CUST_0125",
+    "customer_name": "Customer_125",
+    "email": "user125@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-08"
+  },
+  {
+    "customer_id": "CUST_0126",
+    "customer_name": "Customer_126",
+    "email": "user126@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-10-14"
+  },
+  {
+    "customer_id": "CUST_0127",
+    "customer_name": "Customer_127",
+    "email": "user127@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-03-21"
+  },
+  {
+    "customer_id": "CUST_0128",
+    "customer_name": "Customer_128",
+    "email": "user128@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-04-01"
+  },
+  {
+    "customer_id": "CUST_0129",
+    "customer_name": "Customer_129",
+    "email": null,
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-06-20"
+  },
+  {
+    "customer_id": "CUST_0130",
+    "customer_name": "Customer_130",
+    "email": "user130@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-08"
+  },
+  {
+    "customer_id": "CUST_0131",
+    "customer_name": "Customer_131",
+    "email": "user131@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-02-25"
+  },
+  {
+    "customer_id": "CUST_0132",
+    "customer_name": "Customer_132",
+    "email": "user132@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-08-29"
+  },
+  {
+    "customer_id": "CUST_0133",
+    "customer_name": "Customer_133",
+    "email": "user133@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-08-24"
+  },
+  {
+    "customer_id": "CUST_0134",
+    "customer_name": "Customer_134",
+    "email": "user134@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-04-27"
+  },
+  {
+    "customer_id": "CUST_0135",
+    "customer_name": "Customer_135",
+    "email": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-04-09"
+  },
+  {
+    "customer_id": "CUST_0136",
+    "customer_name": "Customer_136",
+    "email": "user136@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-02-05"
+  },
+  {
+    "customer_id": "CUST_0137",
+    "customer_name": "Customer_137",
+    "email": "user137@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-09-18"
+  },
+  {
+    "customer_id": "CUST_0138",
+    "customer_name": "Customer_138",
+    "email": "user138@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-02"
+  },
+  {
+    "customer_id": "CUST_0139",
+    "customer_name": "Customer_139",
+    "email": "user139@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-03-01"
+  },
+  {
+    "customer_id": "CUST_0140",
+    "customer_name": "Customer_140",
+    "email": "user140@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-16"
+  },
+  {
+    "customer_id": "CUST_0141",
+    "customer_name": "Customer_141",
+    "email": "user141@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-08-11"
+  },
+  {
+    "customer_id": "CUST_0142",
+    "customer_name": "Customer_142",
+    "email": "user142@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-06-10"
+  },
+  {
+    "customer_id": "CUST_0143",
+    "customer_name": "Customer_143",
+    "email": "user143@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-09-19"
+  },
+  {
+    "customer_id": "CUST_0144",
+    "customer_name": "Customer_144",
+    "email": "user144@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-23"
+  },
+  {
+    "customer_id": "CUST_0145",
+    "customer_name": "Customer_145",
+    "email": "user145@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-08-12"
+  },
+  {
+    "customer_id": "CUST_0146",
+    "customer_name": "Customer_146",
+    "email": "user146@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-03"
+  },
+  {
+    "customer_id": "CUST_0147",
+    "customer_name": "Customer_147",
+    "email": "user147@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-04-11"
+  },
+  {
+    "customer_id": "CUST_0148",
+    "customer_name": "Customer_148",
+    "email": "user148@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-06-19"
+  },
+  {
+    "customer_id": "CUST_0149",
+    "customer_name": "Customer_149",
+    "email": "user149@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-05"
+  },
+  {
+    "customer_id": "CUST_0150",
+    "customer_name": "Customer_150",
+    "email": "user150@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-09-17"
+  },
+  {
+    "customer_id": "CUST_0151",
+    "customer_name": "Customer_151",
+    "email": "user151@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-06-17"
+  },
+  {
+    "customer_id": "CUST_0152",
+    "customer_name": "Customer_152",
+    "email": "user152@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-11"
+  },
+  {
+    "customer_id": "CUST_0153",
+    "customer_name": "Customer_153",
+    "email": "user153@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-14"
+  },
+  {
+    "customer_id": "CUST_0154",
+    "customer_name": "Customer_154",
+    "email": "user154@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-03-31"
+  },
+  {
+    "customer_id": "CUST_0155",
+    "customer_name": "Customer_155",
+    "email": "user155@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-07-27"
+  },
+  {
+    "customer_id": "CUST_0156",
+    "customer_name": "Customer_156",
+    "email": "user156@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-06-05"
+  },
+  {
+    "customer_id": "CUST_0157",
+    "customer_name": "Customer_157",
+    "email": "user157@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-10-24"
+  },
+  {
+    "customer_id": "CUST_0158",
+    "customer_name": "Customer_158",
+    "email": "user158@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-27"
+  },
+  {
+    "customer_id": "CUST_0159",
+    "customer_name": "Customer_159",
+    "email": "user159@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-04-20"
+  },
+  {
+    "customer_id": "CUST_0160",
+    "customer_name": "Customer_160",
+    "email": "user160@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-28"
+  },
+  {
+    "customer_id": "CUST_0161",
+    "customer_name": "Customer_161",
+    "email": "user161@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-09-21"
+  },
+  {
+    "customer_id": "CUST_0162",
+    "customer_name": "Customer_162",
+    "email": "user162@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-06-21"
+  },
+  {
+    "customer_id": "CUST_0163",
+    "customer_name": "Customer_163",
+    "email": "user163@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-05-01"
+  },
+  {
+    "customer_id": "CUST_0164",
+    "customer_name": "Customer_164",
+    "email": "user164@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-04-12"
+  },
+  {
+    "customer_id": "CUST_0165",
+    "customer_name": "Customer_165",
+    "email": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-06"
+  },
+  {
+    "customer_id": "CUST_0166",
+    "customer_name": "Customer_166",
+    "email": "user166@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-02-07"
+  },
+  {
+    "customer_id": "CUST_0167",
+    "customer_name": "Customer_167",
+    "email": "user167@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-22"
+  },
+  {
+    "customer_id": "CUST_0168",
+    "customer_name": "Customer_168",
+    "email": "user168@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-16"
+  },
+  {
+    "customer_id": "CUST_0169",
+    "customer_name": "Customer_169",
+    "email": "user169@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-03-17"
+  },
+  {
+    "customer_id": "CUST_0170",
+    "customer_name": "Customer_170",
+    "email": "user170@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-02-24"
+  },
+  {
+    "customer_id": "CUST_0171",
+    "customer_name": "Customer_171",
+    "email": "user171@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-09-23"
+  },
+  {
+    "customer_id": "CUST_0172",
+    "customer_name": "Customer_172",
+    "email": "user172@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-08"
+  },
+  {
+    "customer_id": "CUST_0173",
+    "customer_name": "Customer_173",
+    "email": "user173@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-08-26"
+  },
+  {
+    "customer_id": "CUST_0174",
+    "customer_name": "Customer_174",
+    "email": "user174@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-10-14"
+  },
+  {
+    "customer_id": "CUST_0175",
+    "customer_name": "Customer_175",
+    "email": "user175@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-15"
+  },
+  {
+    "customer_id": "CUST_0176",
+    "customer_name": "Customer_176",
+    "email": "user176@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-09-16"
+  },
+  {
+    "customer_id": "CUST_0177",
+    "customer_name": "Customer_177",
+    "email": "user177@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-08"
+  },
+  {
+    "customer_id": "CUST_0178",
+    "customer_name": "Customer_178",
+    "email": "user178@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-09-01"
+  },
+  {
+    "customer_id": "CUST_0179",
+    "customer_name": "Customer_179",
+    "email": "user179@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-07"
+  },
+  {
+    "customer_id": "CUST_0180",
+    "customer_name": "Customer_180",
+    "email": "user180@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-09-24"
+  },
+  {
+    "customer_id": "CUST_0181",
+    "customer_name": "Customer_181",
+    "email": "user181@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-21"
+  },
+  {
+    "customer_id": "CUST_0182",
+    "customer_name": "Customer_182",
+    "email": "user182@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-27"
+  },
+  {
+    "customer_id": "CUST_0183",
+    "customer_name": "Customer_183",
+    "email": "user183@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-06-13"
+  },
+  {
+    "customer_id": "CUST_0184",
+    "customer_name": "Customer_184",
+    "email": "user184@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-19"
+  },
+  {
+    "customer_id": "CUST_0185",
+    "customer_name": "Customer_185",
+    "email": "user185@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-03-20"
+  },
+  {
+    "customer_id": "CUST_0186",
+    "customer_name": "Customer_186",
+    "email": "user186@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-01"
+  },
+  {
+    "customer_id": "CUST_0187",
+    "customer_name": "Customer_187",
+    "email": "user187@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-08-27"
+  },
+  {
+    "customer_id": "CUST_0188",
+    "customer_name": "Customer_188",
+    "email": "user188@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-08-04"
+  },
+  {
+    "customer_id": "CUST_0189",
+    "customer_name": "Customer_189",
+    "email": "user189@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-27"
+  },
+  {
+    "customer_id": "CUST_0190",
+    "customer_name": "Customer_190",
+    "email": null,
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-10-22"
+  },
+  {
+    "customer_id": "CUST_0191",
+    "customer_name": "Customer_191",
+    "email": "user191@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-06-30"
+  },
+  {
+    "customer_id": "CUST_0192",
+    "customer_name": "Customer_192",
+    "email": "user192@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-03"
+  },
+  {
+    "customer_id": "CUST_0193",
+    "customer_name": "Customer_193",
+    "email": "user193@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-10-07"
+  },
+  {
+    "customer_id": "CUST_0194",
+    "customer_name": "Customer_194",
+    "email": "user194@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-09-07"
+  },
+  {
+    "customer_id": "CUST_0195",
+    "customer_name": "Customer_195",
+    "email": "user195@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-09-06"
+  },
+  {
+    "customer_id": "CUST_0196",
+    "customer_name": "Customer_196",
+    "email": "user196@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-27"
+  },
+  {
+    "customer_id": "CUST_0197",
+    "customer_name": "Customer_197",
+    "email": "user197@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-28"
+  },
+  {
+    "customer_id": "CUST_0198",
+    "customer_name": "Customer_198",
+    "email": "user198@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-10-01"
+  },
+  {
+    "customer_id": "CUST_0199",
+    "customer_name": "Customer_199",
+    "email": "user199@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-16"
+  },
+  {
+    "customer_id": "CUST_0200",
+    "customer_name": "Customer_200",
+    "email": null,
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-08"
+  },
+  {
+    "customer_id": "CUST_0201",
+    "customer_name": "Customer_201",
+    "email": "user201@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-04-04"
+  },
+  {
+    "customer_id": "CUST_0202",
+    "customer_name": "Customer_202",
+    "email": "user202@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-17"
+  },
+  {
+    "customer_id": "CUST_0203",
+    "customer_name": "Customer_203",
+    "email": "user203@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-06-22"
+  },
+  {
+    "customer_id": "CUST_0204",
+    "customer_name": "Customer_204",
+    "email": "user204@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-08-04"
+  },
+  {
+    "customer_id": "CUST_0205",
+    "customer_name": "Customer_205",
+    "email": "user205@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-29"
+  },
+  {
+    "customer_id": "CUST_0206",
+    "customer_name": "Customer_206",
+    "email": "user206@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-01-27"
+  },
+  {
+    "customer_id": "CUST_0207",
+    "customer_name": "Customer_207",
+    "email": "user207@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-02-05"
+  },
+  {
+    "customer_id": "CUST_0208",
+    "customer_name": "Customer_208",
+    "email": null,
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-01-16"
+  },
+  {
+    "customer_id": "CUST_0209",
+    "customer_name": "Customer_209",
+    "email": "user209@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-01-11"
+  },
+  {
+    "customer_id": "CUST_0210",
+    "customer_name": "Customer_210",
+    "email": "user210@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-06"
+  },
+  {
+    "customer_id": "CUST_0211",
+    "customer_name": "Customer_211",
+    "email": "user211@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-16"
+  },
+  {
+    "customer_id": "CUST_0212",
+    "customer_name": "Customer_212",
+    "email": "user212@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-12"
+  },
+  {
+    "customer_id": "CUST_0213",
+    "customer_name": "Customer_213",
+    "email": "user213@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-02-28"
+  },
+  {
+    "customer_id": "CUST_0214",
+    "customer_name": "Customer_214",
+    "email": "user214@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-02-25"
+  },
+  {
+    "customer_id": "CUST_0215",
+    "customer_name": "Customer_215",
+    "email": null,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-06-09"
+  },
+  {
+    "customer_id": "CUST_0216",
+    "customer_name": "Customer_216",
+    "email": "user216@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-07-12"
+  },
+  {
+    "customer_id": "CUST_0217",
+    "customer_name": "Customer_217",
+    "email": "user217@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-04-12"
+  },
+  {
+    "customer_id": "CUST_0218",
+    "customer_name": "Customer_218",
+    "email": "user218@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-05-05"
+  },
+  {
+    "customer_id": "CUST_0219",
+    "customer_name": "Customer_219",
+    "email": "user219@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-04"
+  },
+  {
+    "customer_id": "CUST_0220",
+    "customer_name": "Customer_220",
+    "email": "user220@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-03-03"
+  },
+  {
+    "customer_id": "CUST_0221",
+    "customer_name": "Customer_221",
+    "email": "user221@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-06-27"
+  },
+  {
+    "customer_id": "CUST_0222",
+    "customer_name": "Customer_222",
+    "email": "user222@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-07-09"
+  },
+  {
+    "customer_id": "CUST_0223",
+    "customer_name": "Customer_223",
+    "email": "user223@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-24"
+  },
+  {
+    "customer_id": "CUST_0224",
+    "customer_name": "Customer_224",
+    "email": "user224@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-09-08"
+  },
+  {
+    "customer_id": "CUST_0225",
+    "customer_name": "Customer_225",
+    "email": "user225@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-05"
+  },
+  {
+    "customer_id": "CUST_0226",
+    "customer_name": "Customer_226",
+    "email": "user226@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-24"
+  },
+  {
+    "customer_id": "CUST_0227",
+    "customer_name": "Customer_227",
+    "email": "user227@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-04-01"
+  },
+  {
+    "customer_id": "CUST_0228",
+    "customer_name": "Customer_228",
+    "email": "user228@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-19"
+  },
+  {
+    "customer_id": "CUST_0229",
+    "customer_name": "Customer_229",
+    "email": "user229@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-10-03"
+  },
+  {
+    "customer_id": "CUST_0230",
+    "customer_name": "Customer_230",
+    "email": "user230@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-18"
+  },
+  {
+    "customer_id": "CUST_0231",
+    "customer_name": "Customer_231",
+    "email": "user231@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-02-14"
+  },
+  {
+    "customer_id": "CUST_0232",
+    "customer_name": "Customer_232",
+    "email": "user232@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-05"
+  },
+  {
+    "customer_id": "CUST_0233",
+    "customer_name": "Customer_233",
+    "email": "user233@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-07-14"
+  },
+  {
+    "customer_id": "CUST_0234",
+    "customer_name": "Customer_234",
+    "email": null,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-06-16"
+  },
+  {
+    "customer_id": "CUST_0235",
+    "customer_name": "Customer_235",
+    "email": "user235@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-01"
+  },
+  {
+    "customer_id": "CUST_0236",
+    "customer_name": "Customer_236",
+    "email": "user236@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-22"
+  },
+  {
+    "customer_id": "CUST_0237",
+    "customer_name": "Customer_237",
+    "email": null,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-04-08"
+  },
+  {
+    "customer_id": "CUST_0238",
+    "customer_name": "Customer_238",
+    "email": "user238@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-28"
+  },
+  {
+    "customer_id": "CUST_0239",
+    "customer_name": "Customer_239",
+    "email": "user239@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-04"
+  },
+  {
+    "customer_id": "CUST_0240",
+    "customer_name": "Customer_240",
+    "email": "user240@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-09-09"
+  },
+  {
+    "customer_id": "CUST_0241",
+    "customer_name": "Customer_241",
+    "email": "user241@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-02-17"
+  },
+  {
+    "customer_id": "CUST_0242",
+    "customer_name": "Customer_242",
+    "email": "user242@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-05"
+  },
+  {
+    "customer_id": "CUST_0243",
+    "customer_name": "Customer_243",
+    "email": "user243@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-07-08"
+  },
+  {
+    "customer_id": "CUST_0244",
+    "customer_name": "Customer_244",
+    "email": "user244@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-06-26"
+  },
+  {
+    "customer_id": "CUST_0245",
+    "customer_name": "Customer_245",
+    "email": "user245@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-09"
+  },
+  {
+    "customer_id": "CUST_0246",
+    "customer_name": "Customer_246",
+    "email": "user246@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-21"
+  },
+  {
+    "customer_id": "CUST_0247",
+    "customer_name": "Customer_247",
+    "email": "user247@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-04-29"
+  },
+  {
+    "customer_id": "CUST_0248",
+    "customer_name": "Customer_248",
+    "email": "user248@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-11"
+  },
+  {
+    "customer_id": "CUST_0249",
+    "customer_name": "Customer_249",
+    "email": "user249@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-04-05"
+  },
+  {
+    "customer_id": "CUST_0250",
+    "customer_name": "Customer_250",
+    "email": "user250@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-09-05"
+  },
+  {
+    "customer_id": "CUST_0251",
+    "customer_name": "Customer_251",
+    "email": "user251@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-09-26"
+  },
+  {
+    "customer_id": "CUST_0252",
+    "customer_name": "Customer_252",
+    "email": "user252@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-21"
+  },
+  {
+    "customer_id": "CUST_0253",
+    "customer_name": "Customer_253",
+    "email": "user253@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-04"
+  },
+  {
+    "customer_id": "CUST_0254",
+    "customer_name": "Customer_254",
+    "email": "user254@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-10-01"
+  },
+  {
+    "customer_id": "CUST_0255",
+    "customer_name": "Customer_255",
+    "email": "user255@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-01-28"
+  },
+  {
+    "customer_id": "CUST_0256",
+    "customer_name": "Customer_256",
+    "email": "user256@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-06"
+  },
+  {
+    "customer_id": "CUST_0257",
+    "customer_name": "Customer_257",
+    "email": "user257@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-09-09"
+  },
+  {
+    "customer_id": "CUST_0258",
+    "customer_name": "Customer_258",
+    "email": "user258@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-21"
+  },
+  {
+    "customer_id": "CUST_0259",
+    "customer_name": "Customer_259",
+    "email": "user259@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-14"
+  },
+  {
+    "customer_id": "CUST_0260",
+    "customer_name": "Customer_260",
+    "email": "user260@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-01-27"
+  },
+  {
+    "customer_id": "CUST_0261",
+    "customer_name": "Customer_261",
+    "email": "user261@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-09-02"
+  },
+  {
+    "customer_id": "CUST_0262",
+    "customer_name": "Customer_262",
+    "email": "user262@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-25"
+  },
+  {
+    "customer_id": "CUST_0263",
+    "customer_name": "Customer_263",
+    "email": "user263@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-01-28"
+  },
+  {
+    "customer_id": "CUST_0264",
+    "customer_name": "Customer_264",
+    "email": "user264@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-10-16"
+  },
+  {
+    "customer_id": "CUST_0265",
+    "customer_name": "Customer_265",
+    "email": "user265@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-08"
+  },
+  {
+    "customer_id": "CUST_0266",
+    "customer_name": "Customer_266",
+    "email": "user266@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-08-02"
+  },
+  {
+    "customer_id": "CUST_0267",
+    "customer_name": "Customer_267",
+    "email": "user267@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-04-26"
+  },
+  {
+    "customer_id": "CUST_0268",
+    "customer_name": "Customer_268",
+    "email": "user268@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-15"
+  },
+  {
+    "customer_id": "CUST_0269",
+    "customer_name": "Customer_269",
+    "email": "user269@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-08"
+  },
+  {
+    "customer_id": "CUST_0270",
+    "customer_name": "Customer_270",
+    "email": "user270@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-01-31"
+  },
+  {
+    "customer_id": "CUST_0271",
+    "customer_name": "Customer_271",
+    "email": "user271@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-20"
+  },
+  {
+    "customer_id": "CUST_0272",
+    "customer_name": "Customer_272",
+    "email": "user272@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-16"
+  },
+  {
+    "customer_id": "CUST_0273",
+    "customer_name": "Customer_273",
+    "email": "user273@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-03"
+  },
+  {
+    "customer_id": "CUST_0274",
+    "customer_name": "Customer_274",
+    "email": "user274@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-03-22"
+  },
+  {
+    "customer_id": "CUST_0275",
+    "customer_name": "Customer_275",
+    "email": "user275@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-08-29"
+  },
+  {
+    "customer_id": "CUST_0276",
+    "customer_name": "Customer_276",
+    "email": null,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-28"
+  },
+  {
+    "customer_id": "CUST_0277",
+    "customer_name": "Customer_277",
+    "email": "user277@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-21"
+  },
+  {
+    "customer_id": "CUST_0278",
+    "customer_name": "Customer_278",
+    "email": "user278@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-05-16"
+  },
+  {
+    "customer_id": "CUST_0279",
+    "customer_name": "Customer_279",
+    "email": "user279@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-04-12"
+  },
+  {
+    "customer_id": "CUST_0280",
+    "customer_name": "Customer_280",
+    "email": "user280@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-04-26"
+  },
+  {
+    "customer_id": "CUST_0281",
+    "customer_name": "Customer_281",
+    "email": "user281@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-17"
+  },
+  {
+    "customer_id": "CUST_0282",
+    "customer_name": "Customer_282",
+    "email": "user282@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-03-26"
+  },
+  {
+    "customer_id": "CUST_0283",
+    "customer_name": "Customer_283",
+    "email": "user283@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-10-19"
+  },
+  {
+    "customer_id": "CUST_0284",
+    "customer_name": "Customer_284",
+    "email": "user284@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-28"
+  },
+  {
+    "customer_id": "CUST_0285",
+    "customer_name": "Customer_285",
+    "email": "user285@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-07-26"
+  },
+  {
+    "customer_id": "CUST_0286",
+    "customer_name": "Customer_286",
+    "email": "user286@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-09-10"
+  },
+  {
+    "customer_id": "CUST_0287",
+    "customer_name": "Customer_287",
+    "email": "user287@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-01-21"
+  },
+  {
+    "customer_id": "CUST_0288",
+    "customer_name": "Customer_288",
+    "email": "user288@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-09"
+  },
+  {
+    "customer_id": "CUST_0289",
+    "customer_name": "Customer_289",
+    "email": "user289@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-22"
+  },
+  {
+    "customer_id": "CUST_0290",
+    "customer_name": "Customer_290",
+    "email": "user290@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-05-18"
+  },
+  {
+    "customer_id": "CUST_0291",
+    "customer_name": "Customer_291",
+    "email": null,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-31"
+  },
+  {
+    "customer_id": "CUST_0292",
+    "customer_name": "Customer_292",
+    "email": "user292@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-08-15"
+  },
+  {
+    "customer_id": "CUST_0293",
+    "customer_name": "Customer_293",
+    "email": "user293@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-10-27"
+  },
+  {
+    "customer_id": "CUST_0294",
+    "customer_name": "Customer_294",
+    "email": "user294@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-09-09"
+  },
+  {
+    "customer_id": "CUST_0295",
+    "customer_name": "Customer_295",
+    "email": "user295@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-29"
+  },
+  {
+    "customer_id": "CUST_0296",
+    "customer_name": "Customer_296",
+    "email": "user296@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-02-23"
+  },
+  {
+    "customer_id": "CUST_0297",
+    "customer_name": "Customer_297",
+    "email": "user297@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-09-11"
+  },
+  {
+    "customer_id": "CUST_0298",
+    "customer_name": "Customer_298",
+    "email": "user298@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-07-25"
+  },
+  {
+    "customer_id": "CUST_0299",
+    "customer_name": "Customer_299",
+    "email": null,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-15"
+  },
+  {
+    "customer_id": "CUST_0300",
+    "customer_name": "Customer_300",
+    "email": "user300@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-03-01"
+  },
+  {
+    "customer_id": "CUST_0301",
+    "customer_name": "Customer_301",
+    "email": "user301@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-01-01"
+  },
+  {
+    "customer_id": "CUST_0302",
+    "customer_name": "Customer_302",
+    "email": "user302@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-25"
+  },
+  {
+    "customer_id": "CUST_0303",
+    "customer_name": "Customer_303",
+    "email": "user303@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-09-23"
+  },
+  {
+    "customer_id": "CUST_0304",
+    "customer_name": "Customer_304",
+    "email": "user304@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-09-13"
+  },
+  {
+    "customer_id": "CUST_0305",
+    "customer_name": "Customer_305",
+    "email": "user305@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-01-27"
+  },
+  {
+    "customer_id": "CUST_0306",
+    "customer_name": "Customer_306",
+    "email": "user306@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-03-09"
+  },
+  {
+    "customer_id": "CUST_0307",
+    "customer_name": "Customer_307",
+    "email": "user307@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-09-06"
+  },
+  {
+    "customer_id": "CUST_0308",
+    "customer_name": "Customer_308",
+    "email": null,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-05-03"
+  },
+  {
+    "customer_id": "CUST_0309",
+    "customer_name": "Customer_309",
+    "email": "user309@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-10-10"
+  },
+  {
+    "customer_id": "CUST_0310",
+    "customer_name": "Customer_310",
+    "email": "user310@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-02-17"
+  },
+  {
+    "customer_id": "CUST_0311",
+    "customer_name": "Customer_311",
+    "email": "user311@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-02-28"
+  },
+  {
+    "customer_id": "CUST_0312",
+    "customer_name": "Customer_312",
+    "email": "user312@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-03-20"
+  },
+  {
+    "customer_id": "CUST_0313",
+    "customer_name": "Customer_313",
+    "email": "user313@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-30"
+  },
+  {
+    "customer_id": "CUST_0314",
+    "customer_name": "Customer_314",
+    "email": "user314@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-01"
+  },
+  {
+    "customer_id": "CUST_0315",
+    "customer_name": "Customer_315",
+    "email": "user315@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-05"
+  },
+  {
+    "customer_id": "CUST_0316",
+    "customer_name": "Customer_316",
+    "email": "user316@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-07-16"
+  },
+  {
+    "customer_id": "CUST_0317",
+    "customer_name": "Customer_317",
+    "email": "user317@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-09-18"
+  },
+  {
+    "customer_id": "CUST_0318",
+    "customer_name": "Customer_318",
+    "email": "user318@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-02-05"
+  },
+  {
+    "customer_id": "CUST_0319",
+    "customer_name": "Customer_319",
+    "email": "user319@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-01"
+  },
+  {
+    "customer_id": "CUST_0320",
+    "customer_name": "Customer_320",
+    "email": "user320@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-09-17"
+  },
+  {
+    "customer_id": "CUST_0321",
+    "customer_name": "Customer_321",
+    "email": "user321@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-05-25"
+  },
+  {
+    "customer_id": "CUST_0322",
+    "customer_name": "Customer_322",
+    "email": "user322@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-10-28"
+  },
+  {
+    "customer_id": "CUST_0323",
+    "customer_name": "Customer_323",
+    "email": "user323@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-09-08"
+  },
+  {
+    "customer_id": "CUST_0324",
+    "customer_name": "Customer_324",
+    "email": "user324@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-09-05"
+  },
+  {
+    "customer_id": "CUST_0325",
+    "customer_name": "Customer_325",
+    "email": "user325@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-10-06"
+  },
+  {
+    "customer_id": "CUST_0326",
+    "customer_name": "Customer_326",
+    "email": "user326@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-06-14"
+  },
+  {
+    "customer_id": "CUST_0327",
+    "customer_name": "Customer_327",
+    "email": "user327@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-03"
+  },
+  {
+    "customer_id": "CUST_0328",
+    "customer_name": "Customer_328",
+    "email": "user328@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-07-30"
+  },
+  {
+    "customer_id": "CUST_0329",
+    "customer_name": "Customer_329",
+    "email": "user329@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-08-31"
+  },
+  {
+    "customer_id": "CUST_0330",
+    "customer_name": "Customer_330",
+    "email": "user330@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-07-15"
+  },
+  {
+    "customer_id": "CUST_0331",
+    "customer_name": "Customer_331",
+    "email": "user331@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-03-19"
+  },
+  {
+    "customer_id": "CUST_0332",
+    "customer_name": "Customer_332",
+    "email": "user332@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-03-06"
+  },
+  {
+    "customer_id": "CUST_0333",
+    "customer_name": "Customer_333",
+    "email": "user333@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-06-19"
+  },
+  {
+    "customer_id": "CUST_0334",
+    "customer_name": "Customer_334",
+    "email": "user334@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-08-14"
+  },
+  {
+    "customer_id": "CUST_0335",
+    "customer_name": "Customer_335",
+    "email": "user335@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-08-22"
+  },
+  {
+    "customer_id": "CUST_0336",
+    "customer_name": "Customer_336",
+    "email": "user336@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-29"
+  },
+  {
+    "customer_id": "CUST_0337",
+    "customer_name": "Customer_337",
+    "email": "user337@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-02-08"
+  },
+  {
+    "customer_id": "CUST_0338",
+    "customer_name": "Customer_338",
+    "email": "user338@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-16"
+  },
+  {
+    "customer_id": "CUST_0339",
+    "customer_name": "Customer_339",
+    "email": "user339@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-07-23"
+  },
+  {
+    "customer_id": "CUST_0340",
+    "customer_name": "Customer_340",
+    "email": "user340@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-06-18"
+  },
+  {
+    "customer_id": "CUST_0341",
+    "customer_name": "Customer_341",
+    "email": "user341@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-07-14"
+  },
+  {
+    "customer_id": "CUST_0342",
+    "customer_name": "Customer_342",
+    "email": "user342@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-09-07"
+  },
+  {
+    "customer_id": "CUST_0343",
+    "customer_name": "Customer_343",
+    "email": null,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-05"
+  },
+  {
+    "customer_id": "CUST_0344",
+    "customer_name": "Customer_344",
+    "email": "user344@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-28"
+  },
+  {
+    "customer_id": "CUST_0345",
+    "customer_name": "Customer_345",
+    "email": "user345@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-08-11"
+  },
+  {
+    "customer_id": "CUST_0346",
+    "customer_name": "Customer_346",
+    "email": "user346@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-02-21"
+  },
+  {
+    "customer_id": "CUST_0347",
+    "customer_name": "Customer_347",
+    "email": "user347@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-06-03"
+  },
+  {
+    "customer_id": "CUST_0348",
+    "customer_name": "Customer_348",
+    "email": null,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-01-29"
+  },
+  {
+    "customer_id": "CUST_0349",
+    "customer_name": "Customer_349",
+    "email": "user349@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-09"
+  },
+  {
+    "customer_id": "CUST_0350",
+    "customer_name": "Customer_350",
+    "email": "user350@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-30"
+  },
+  {
+    "customer_id": "CUST_0351",
+    "customer_name": "Customer_351",
+    "email": "user351@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-04-03"
+  },
+  {
+    "customer_id": "CUST_0352",
+    "customer_name": "Customer_352",
+    "email": "user352@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-15"
+  },
+  {
+    "customer_id": "CUST_0353",
+    "customer_name": "Customer_353",
+    "email": "user353@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-09-12"
+  },
+  {
+    "customer_id": "CUST_0354",
+    "customer_name": "Customer_354",
+    "email": "user354@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-25"
+  },
+  {
+    "customer_id": "CUST_0355",
+    "customer_name": "Customer_355",
+    "email": "user355@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-11"
+  },
+  {
+    "customer_id": "CUST_0356",
+    "customer_name": "Customer_356",
+    "email": null,
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-27"
+  },
+  {
+    "customer_id": "CUST_0357",
+    "customer_name": "Customer_357",
+    "email": "user357@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-03-22"
+  },
+  {
+    "customer_id": "CUST_0358",
+    "customer_name": "Customer_358",
+    "email": "user358@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-26"
+  },
+  {
+    "customer_id": "CUST_0359",
+    "customer_name": "Customer_359",
+    "email": "user359@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-06"
+  },
+  {
+    "customer_id": "CUST_0360",
+    "customer_name": "Customer_360",
+    "email": "user360@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-06-04"
+  },
+  {
+    "customer_id": "CUST_0361",
+    "customer_name": "Customer_361",
+    "email": "user361@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-09-05"
+  },
+  {
+    "customer_id": "CUST_0362",
+    "customer_name": "Customer_362",
+    "email": "user362@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-20"
+  },
+  {
+    "customer_id": "CUST_0363",
+    "customer_name": "Customer_363",
+    "email": "user363@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-06-01"
+  },
+  {
+    "customer_id": "CUST_0364",
+    "customer_name": "Customer_364",
+    "email": "user364@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-22"
+  },
+  {
+    "customer_id": "CUST_0365",
+    "customer_name": "Customer_365",
+    "email": null,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-01-26"
+  },
+  {
+    "customer_id": "CUST_0366",
+    "customer_name": "Customer_366",
+    "email": "user366@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-05-27"
+  },
+  {
+    "customer_id": "CUST_0367",
+    "customer_name": "Customer_367",
+    "email": "user367@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-06-30"
+  },
+  {
+    "customer_id": "CUST_0368",
+    "customer_name": "Customer_368",
+    "email": "user368@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-09"
+  },
+  {
+    "customer_id": "CUST_0369",
+    "customer_name": "Customer_369",
+    "email": "user369@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-03-12"
+  },
+  {
+    "customer_id": "CUST_0370",
+    "customer_name": "Customer_370",
+    "email": "user370@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-01-21"
+  },
+  {
+    "customer_id": "CUST_0371",
+    "customer_name": "Customer_371",
+    "email": "user371@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-01-18"
+  },
+  {
+    "customer_id": "CUST_0372",
+    "customer_name": "Customer_372",
+    "email": "user372@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-09"
+  },
+  {
+    "customer_id": "CUST_0373",
+    "customer_name": "Customer_373",
+    "email": "user373@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-17"
+  },
+  {
+    "customer_id": "CUST_0374",
+    "customer_name": "Customer_374",
+    "email": "user374@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-04-13"
+  },
+  {
+    "customer_id": "CUST_0375",
+    "customer_name": "Customer_375",
+    "email": "user375@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-07"
+  },
+  {
+    "customer_id": "CUST_0376",
+    "customer_name": "Customer_376",
+    "email": "user376@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-05-20"
+  },
+  {
+    "customer_id": "CUST_0377",
+    "customer_name": "Customer_377",
+    "email": "user377@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-09-04"
+  },
+  {
+    "customer_id": "CUST_0378",
+    "customer_name": "Customer_378",
+    "email": "user378@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-06-23"
+  },
+  {
+    "customer_id": "CUST_0379",
+    "customer_name": "Customer_379",
+    "email": "user379@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-02-08"
+  },
+  {
+    "customer_id": "CUST_0380",
+    "customer_name": "Customer_380",
+    "email": "user380@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-04-26"
+  },
+  {
+    "customer_id": "CUST_0381",
+    "customer_name": "Customer_381",
+    "email": "user381@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-07-23"
+  },
+  {
+    "customer_id": "CUST_0382",
+    "customer_name": "Customer_382",
+    "email": "user382@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-07-22"
+  },
+  {
+    "customer_id": "CUST_0383",
+    "customer_name": "Customer_383",
+    "email": "user383@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-03-05"
+  },
+  {
+    "customer_id": "CUST_0384",
+    "customer_name": "Customer_384",
+    "email": "user384@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-15"
+  },
+  {
+    "customer_id": "CUST_0385",
+    "customer_name": "Customer_385",
+    "email": "user385@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-07-10"
+  },
+  {
+    "customer_id": "CUST_0386",
+    "customer_name": "Customer_386",
+    "email": "user386@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-08-30"
+  },
+  {
+    "customer_id": "CUST_0387",
+    "customer_name": "Customer_387",
+    "email": "user387@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-15"
+  },
+  {
+    "customer_id": "CUST_0388",
+    "customer_name": "Customer_388",
+    "email": "user388@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-04-24"
+  },
+  {
+    "customer_id": "CUST_0389",
+    "customer_name": "Customer_389",
+    "email": "user389@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-26"
+  },
+  {
+    "customer_id": "CUST_0390",
+    "customer_name": "Customer_390",
+    "email": "user390@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-07-29"
+  },
+  {
+    "customer_id": "CUST_0391",
+    "customer_name": "Customer_391",
+    "email": "user391@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-01-20"
+  },
+  {
+    "customer_id": "CUST_0392",
+    "customer_name": "Customer_392",
+    "email": "user392@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-03-01"
+  },
+  {
+    "customer_id": "CUST_0393",
+    "customer_name": "Customer_393",
+    "email": "user393@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-03"
+  },
+  {
+    "customer_id": "CUST_0394",
+    "customer_name": "Customer_394",
+    "email": "user394@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-09"
+  },
+  {
+    "customer_id": "CUST_0395",
+    "customer_name": "Customer_395",
+    "email": "user395@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-10-04"
+  },
+  {
+    "customer_id": "CUST_0396",
+    "customer_name": "Customer_396",
+    "email": "user396@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-03-21"
+  },
+  {
+    "customer_id": "CUST_0397",
+    "customer_name": "Customer_397",
+    "email": "user397@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-09-08"
+  },
+  {
+    "customer_id": "CUST_0398",
+    "customer_name": "Customer_398",
+    "email": "user398@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-05-24"
+  },
+  {
+    "customer_id": "CUST_0399",
+    "customer_name": "Customer_399",
+    "email": "user399@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-04-22"
+  },
+  {
+    "customer_id": "CUST_0400",
+    "customer_name": "Customer_400",
+    "email": "user400@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-01"
+  },
+  {
+    "customer_id": "CUST_0401",
+    "customer_name": "Customer_401",
+    "email": "user401@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-07-08"
+  },
+  {
+    "customer_id": "CUST_0402",
+    "customer_name": "Customer_402",
+    "email": "user402@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-07-03"
+  },
+  {
+    "customer_id": "CUST_0403",
+    "customer_name": "Customer_403",
+    "email": "user403@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-04-08"
+  },
+  {
+    "customer_id": "CUST_0404",
+    "customer_name": "Customer_404",
+    "email": "user404@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-08-21"
+  },
+  {
+    "customer_id": "CUST_0405",
+    "customer_name": "Customer_405",
+    "email": "user405@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-01-11"
+  },
+  {
+    "customer_id": "CUST_0406",
+    "customer_name": "Customer_406",
+    "email": "user406@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-05-05"
+  },
+  {
+    "customer_id": "CUST_0407",
+    "customer_name": "Customer_407",
+    "email": "user407@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-04-16"
+  },
+  {
+    "customer_id": "CUST_0408",
+    "customer_name": "Customer_408",
+    "email": "user408@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-11"
+  },
+  {
+    "customer_id": "CUST_0409",
+    "customer_name": "Customer_409",
+    "email": "user409@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-04-30"
+  },
+  {
+    "customer_id": "CUST_0410",
+    "customer_name": "Customer_410",
+    "email": "user410@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-01-02"
+  },
+  {
+    "customer_id": "CUST_0411",
+    "customer_name": "Customer_411",
+    "email": "user411@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-03-16"
+  },
+  {
+    "customer_id": "CUST_0412",
+    "customer_name": "Customer_412",
+    "email": "user412@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-03-31"
+  },
+  {
+    "customer_id": "CUST_0413",
+    "customer_name": "Customer_413",
+    "email": "user413@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-01-14"
+  },
+  {
+    "customer_id": "CUST_0414",
+    "customer_name": "Customer_414",
+    "email": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-02"
+  },
+  {
+    "customer_id": "CUST_0415",
+    "customer_name": "Customer_415",
+    "email": "user415@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-31"
+  },
+  {
+    "customer_id": "CUST_0416",
+    "customer_name": "Customer_416",
+    "email": "user416@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-04"
+  },
+  {
+    "customer_id": "CUST_0417",
+    "customer_name": "Customer_417",
+    "email": "user417@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-02"
+  },
+  {
+    "customer_id": "CUST_0418",
+    "customer_name": "Customer_418",
+    "email": "user418@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-07-05"
+  },
+  {
+    "customer_id": "CUST_0419",
+    "customer_name": "Customer_419",
+    "email": "user419@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-20"
+  },
+  {
+    "customer_id": "CUST_0420",
+    "customer_name": "Customer_420",
+    "email": "user420@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-01-23"
+  },
+  {
+    "customer_id": "CUST_0421",
+    "customer_name": "Customer_421",
+    "email": "user421@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-09-24"
+  },
+  {
+    "customer_id": "CUST_0422",
+    "customer_name": "Customer_422",
+    "email": "user422@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-01-16"
+  },
+  {
+    "customer_id": "CUST_0423",
+    "customer_name": "Customer_423",
+    "email": "user423@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-25"
+  },
+  {
+    "customer_id": "CUST_0424",
+    "customer_name": "Customer_424",
+    "email": "user424@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-09-09"
+  },
+  {
+    "customer_id": "CUST_0425",
+    "customer_name": "Customer_425",
+    "email": "user425@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-02-07"
+  },
+  {
+    "customer_id": "CUST_0426",
+    "customer_name": "Customer_426",
+    "email": "user426@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-03-17"
+  },
+  {
+    "customer_id": "CUST_0427",
+    "customer_name": "Customer_427",
+    "email": "user427@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-27"
+  },
+  {
+    "customer_id": "CUST_0428",
+    "customer_name": "Customer_428",
+    "email": "user428@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-07-15"
+  },
+  {
+    "customer_id": "CUST_0429",
+    "customer_name": "Customer_429",
+    "email": "user429@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-21"
+  },
+  {
+    "customer_id": "CUST_0430",
+    "customer_name": "Customer_430",
+    "email": "user430@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-20"
+  },
+  {
+    "customer_id": "CUST_0431",
+    "customer_name": "Customer_431",
+    "email": "user431@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-10-10"
+  },
+  {
+    "customer_id": "CUST_0432",
+    "customer_name": "Customer_432",
+    "email": "user432@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-09"
+  },
+  {
+    "customer_id": "CUST_0433",
+    "customer_name": "Customer_433",
+    "email": "user433@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-07-31"
+  },
+  {
+    "customer_id": "CUST_0434",
+    "customer_name": "Customer_434",
+    "email": "user434@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-07-24"
+  },
+  {
+    "customer_id": "CUST_0435",
+    "customer_name": "Customer_435",
+    "email": "user435@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-06-10"
+  },
+  {
+    "customer_id": "CUST_0436",
+    "customer_name": "Customer_436",
+    "email": "user436@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-11"
+  },
+  {
+    "customer_id": "CUST_0437",
+    "customer_name": "Customer_437",
+    "email": "user437@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-31"
+  },
+  {
+    "customer_id": "CUST_0438",
+    "customer_name": "Customer_438",
+    "email": "user438@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-02-13"
+  },
+  {
+    "customer_id": "CUST_0439",
+    "customer_name": "Customer_439",
+    "email": "user439@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-07-10"
+  },
+  {
+    "customer_id": "CUST_0440",
+    "customer_name": "Customer_440",
+    "email": "user440@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-10-28"
+  },
+  {
+    "customer_id": "CUST_0441",
+    "customer_name": "Customer_441",
+    "email": "user441@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-04"
+  },
+  {
+    "customer_id": "CUST_0442",
+    "customer_name": "Customer_442",
+    "email": "user442@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-08-05"
+  },
+  {
+    "customer_id": "CUST_0443",
+    "customer_name": "Customer_443",
+    "email": "user443@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-05-28"
+  },
+  {
+    "customer_id": "CUST_0444",
+    "customer_name": "Customer_444",
+    "email": "user444@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-02-23"
+  },
+  {
+    "customer_id": "CUST_0445",
+    "customer_name": "Customer_445",
+    "email": "user445@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-03-21"
+  },
+  {
+    "customer_id": "CUST_0446",
+    "customer_name": "Customer_446",
+    "email": "user446@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-02-25"
+  },
+  {
+    "customer_id": "CUST_0447",
+    "customer_name": "Customer_447",
+    "email": "user447@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-07-08"
+  },
+  {
+    "customer_id": "CUST_0448",
+    "customer_name": "Customer_448",
+    "email": "user448@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-10-21"
+  },
+  {
+    "customer_id": "CUST_0449",
+    "customer_name": "Customer_449",
+    "email": "user449@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-10-15"
+  },
+  {
+    "customer_id": "CUST_0450",
+    "customer_name": "Customer_450",
+    "email": "user450@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-10-13"
+  },
+  {
+    "customer_id": "CUST_0451",
+    "customer_name": "Customer_451",
+    "email": "user451@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-05-17"
+  },
+  {
+    "customer_id": "CUST_0452",
+    "customer_name": "Customer_452",
+    "email": "user452@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-08"
+  },
+  {
+    "customer_id": "CUST_0453",
+    "customer_name": "Customer_453",
+    "email": "user453@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-04-03"
+  },
+  {
+    "customer_id": "CUST_0454",
+    "customer_name": "Customer_454",
+    "email": "user454@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-07-25"
+  },
+  {
+    "customer_id": "CUST_0455",
+    "customer_name": "Customer_455",
+    "email": "user455@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-01-16"
+  },
+  {
+    "customer_id": "CUST_0456",
+    "customer_name": "Customer_456",
+    "email": "user456@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-04-21"
+  },
+  {
+    "customer_id": "CUST_0457",
+    "customer_name": "Customer_457",
+    "email": "user457@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-06-24"
+  },
+  {
+    "customer_id": "CUST_0458",
+    "customer_name": "Customer_458",
+    "email": "user458@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-06-16"
+  },
+  {
+    "customer_id": "CUST_0459",
+    "customer_name": "Customer_459",
+    "email": "user459@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-01-27"
+  },
+  {
+    "customer_id": "CUST_0460",
+    "customer_name": "Customer_460",
+    "email": "user460@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-01-26"
+  },
+  {
+    "customer_id": "CUST_0461",
+    "customer_name": "Customer_461",
+    "email": "user461@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-15"
+  },
+  {
+    "customer_id": "CUST_0462",
+    "customer_name": "Customer_462",
+    "email": "user462@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-15"
+  },
+  {
+    "customer_id": "CUST_0463",
+    "customer_name": "Customer_463",
+    "email": "user463@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-09-20"
+  },
+  {
+    "customer_id": "CUST_0464",
+    "customer_name": "Customer_464",
+    "email": "user464@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-02-26"
+  },
+  {
+    "customer_id": "CUST_0465",
+    "customer_name": "Customer_465",
+    "email": "user465@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-09-07"
+  },
+  {
+    "customer_id": "CUST_0466",
+    "customer_name": "Customer_466",
+    "email": "user466@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-01-24"
+  },
+  {
+    "customer_id": "CUST_0467",
+    "customer_name": "Customer_467",
+    "email": "user467@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-01-29"
+  },
+  {
+    "customer_id": "CUST_0468",
+    "customer_name": "Customer_468",
+    "email": "user468@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-04-19"
+  },
+  {
+    "customer_id": "CUST_0469",
+    "customer_name": "Customer_469",
+    "email": "user469@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-29"
+  },
+  {
+    "customer_id": "CUST_0470",
+    "customer_name": "Customer_470",
+    "email": "user470@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-09-12"
+  },
+  {
+    "customer_id": "CUST_0471",
+    "customer_name": "Customer_471",
+    "email": "user471@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-03-08"
+  },
+  {
+    "customer_id": "CUST_0472",
+    "customer_name": "Customer_472",
+    "email": "user472@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-04-28"
+  },
+  {
+    "customer_id": "CUST_0473",
+    "customer_name": "Customer_473",
+    "email": "user473@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-07-01"
+  },
+  {
+    "customer_id": "CUST_0474",
+    "customer_name": "Customer_474",
+    "email": "user474@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-01-22"
+  },
+  {
+    "customer_id": "CUST_0475",
+    "customer_name": "Customer_475",
+    "email": null,
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-02-09"
+  },
+  {
+    "customer_id": "CUST_0476",
+    "customer_name": "Customer_476",
+    "email": "user476@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-10-21"
+  },
+  {
+    "customer_id": "CUST_0477",
+    "customer_name": "Customer_477",
+    "email": "user477@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-08-02"
+  },
+  {
+    "customer_id": "CUST_0478",
+    "customer_name": "Customer_478",
+    "email": "user478@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-01-11"
+  },
+  {
+    "customer_id": "CUST_0479",
+    "customer_name": "Customer_479",
+    "email": "user479@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-08-24"
+  },
+  {
+    "customer_id": "CUST_0480",
+    "customer_name": "Customer_480",
+    "email": "user480@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-02-15"
+  },
+  {
+    "customer_id": "CUST_0481",
+    "customer_name": "Customer_481",
+    "email": "user481@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-05-05"
+  },
+  {
+    "customer_id": "CUST_0482",
+    "customer_name": "Customer_482",
+    "email": "user482@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-09-26"
+  },
+  {
+    "customer_id": "CUST_0483",
+    "customer_name": "Customer_483",
+    "email": "user483@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-08"
+  },
+  {
+    "customer_id": "CUST_0484",
+    "customer_name": "Customer_484",
+    "email": "user484@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-06-20"
+  },
+  {
+    "customer_id": "CUST_0485",
+    "customer_name": "Customer_485",
+    "email": "user485@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-02-28"
+  },
+  {
+    "customer_id": "CUST_0486",
+    "customer_name": "Customer_486",
+    "email": "user486@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-06-28"
+  },
+  {
+    "customer_id": "CUST_0487",
+    "customer_name": "Customer_487",
+    "email": "user487@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-03-17"
+  },
+  {
+    "customer_id": "CUST_0488",
+    "customer_name": "Customer_488",
+    "email": "user488@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-05-12"
+  },
+  {
+    "customer_id": "CUST_0489",
+    "customer_name": "Customer_489",
+    "email": "user489@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "South",
+    "signup_date": "2025-03-20"
+  },
+  {
+    "customer_id": "CUST_0490",
+    "customer_name": "Customer_490",
+    "email": "user490@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-09-10"
+  },
+  {
+    "customer_id": "CUST_0491",
+    "customer_name": "Customer_491",
+    "email": "user491@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-24"
+  },
+  {
+    "customer_id": "CUST_0492",
+    "customer_name": "Customer_492",
+    "email": "user492@example.com",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-10-17"
+  },
+  {
+    "customer_id": "CUST_0493",
+    "customer_name": "Customer_493",
+    "email": "user493@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-06-15"
+  },
+  {
+    "customer_id": "CUST_0494",
+    "customer_name": "Customer_494",
+    "email": "user494@example.com",
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "North",
+    "signup_date": "2025-08-14"
+  },
+  {
+    "customer_id": "CUST_0495",
+    "customer_name": "Customer_495",
+    "email": "user495@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South",
+    "signup_date": "2025-06-05"
+  },
+  {
+    "customer_id": "CUST_0496",
+    "customer_name": "Customer_496",
+    "email": "user496@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-06-30"
+  },
+  {
+    "customer_id": "CUST_0497",
+    "customer_name": "Customer_497",
+    "email": "user497@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-08-25"
+  },
+  {
+    "customer_id": "CUST_0498",
+    "customer_name": "Customer_498",
+    "email": null,
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "signup_date": "2025-07-08"
+  },
+  {
+    "customer_id": "CUST_0499",
+    "customer_name": "Customer_499",
+    "email": "user499@example.com",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "signup_date": "2025-02-16"
+  },
+  {
+    "customer_id": "CUST_0500",
+    "customer_name": "Customer_500",
+    "email": "user500@example.com",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West",
+    "signup_date": "2025-07-16"
+  }
+]
